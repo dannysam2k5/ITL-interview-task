@@ -1,7 +1,7 @@
 # Image Classification Pipeline
 ## Overview
 
-This repository contains the implementation of a simple image classification pipeline for distinguishing between pictures of oranges and apples. The pipeline utilizes a machine learning algorithm, data processing techniques, and performance assessment methods.
+This repository contains the implementation of a simple image classification pipeline for distinguishing between pictures of oranges and apples. The pipeline utilizes a machine learning algorithm, data processing techniques, model building, and performance evaluation methods.
 
 ## Contents
 
@@ -15,7 +15,7 @@ This repository contains the implementation of a simple image classification pip
 - Step 3: Deep Model
 	- Build Deep Learning Model
 	- Model Training
-- Step 4: Performance Evaulation
+- Step 4: Performance Evaluation
 	- Evaluate
 	- Testing
 - Step 5: Model Deployment
