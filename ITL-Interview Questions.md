@@ -1,4 +1,4 @@
-# ITL Interview Questions : Data Science 
+# ITL Interview Questions : Data Science Placement
 
 1. Explain how neural network works.
 2. What is the effect of the filter size / kernel on the performance of a CNN ?
